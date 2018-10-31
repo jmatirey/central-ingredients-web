@@ -1,0 +1,65 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/02/2018 19:50
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-whatsapp:before { content: "\f100"; }
+.flaticon-planet-earth:before { content: "\f101"; }
+.flaticon-delivery-man:before { content: "\f102"; }
+.flaticon-cupcake:before { content: "\f103"; }
+.flaticon-yogurt-with-spoon:before { content: "\f104"; }
+.flaticon-nougat:before { content: "\f105"; }
+.flaticon-milkshake:before { content: "\f106"; }
+.flaticon-ice-cream:before { content: "\f107"; }
+.flaticon-chocolate:before { content: "\f108"; }
+.flaticon-direction:before { content: "\f109"; }
+.flaticon-mail:before { content: "\f10a"; }
+.flaticon-phone-call:before { content: "\f10b"; }
+.flaticon-home:before { content: "\f10c"; }
+    
+    $font-Flaticon-whatsapp: "\f100";
+    $font-Flaticon-planet-earth: "\f101";
+    $font-Flaticon-delivery-man: "\f102";
+    $font-Flaticon-cupcake: "\f103";
+    $font-Flaticon-yogurt-with-spoon: "\f104";
+    $font-Flaticon-nougat: "\f105";
+    $font-Flaticon-milkshake: "\f106";
+    $font-Flaticon-ice-cream: "\f107";
+    $font-Flaticon-chocolate: "\f108";
+    $font-Flaticon-direction: "\f109";
+    $font-Flaticon-mail: "\f10a";
+    $font-Flaticon-phone-call: "\f10b";
+    $font-Flaticon-home: "\f10c";

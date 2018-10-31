@@ -1,0 +1,1017 @@
+/* lato-100 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../fonts/lato-v14-latin-100.eot'); /* IE9 Compat Modes */
+  src: local('Lato Hairline'), local('Lato-Hairline'),
+  url('../fonts/lato-v14-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/lato-v14-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/lato-v14-latin-100.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/lato-v14-latin-100.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/lato-v14-latin-100.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/* lato-100italic - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 100;
+  src: url('../fonts/lato-v14-latin-100italic.eot'); /* IE9 Compat Modes */
+  src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'),
+  url('../fonts/lato-v14-latin-100italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/lato-v14-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/lato-v14-latin-100italic.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/lato-v14-latin-100italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/lato-v14-latin-100italic.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/* lato-300 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/lato-v14-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Lato Light'), local('Lato-Light'),
+  url('../fonts/lato-v14-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/lato-v14-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/lato-v14-latin-300.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/lato-v14-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/lato-v14-latin-300.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/* lato-300italic - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: url('../fonts/lato-v14-latin-300italic.eot'); /* IE9 Compat Modes */
+  src: local('Lato Light Italic'), local('Lato-LightItalic'),
+  url('../fonts/lato-v14-latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/lato-v14-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/lato-v14-latin-300italic.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/lato-v14-latin-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/lato-v14-latin-300italic.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/* lato-regular - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lato-v14-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Lato Regular'), local('Lato-Regular'),
+  url('../fonts/lato-v14-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/lato-v14-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/lato-v14-latin-regular.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/lato-v14-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/lato-v14-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/* lato-italic - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/lato-v14-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local('Lato Italic'), local('Lato-Italic'),
+  url('../fonts/lato-v14-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/lato-v14-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/lato-v14-latin-italic.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/lato-v14-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/lato-v14-latin-italic.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/* lato-700 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/lato-v14-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Lato Bold'), local('Lato-Bold'),
+  url('../fonts/lato-v14-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/lato-v14-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/lato-v14-latin-700.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/lato-v14-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/lato-v14-latin-700.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/* lato-900 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/lato-v14-latin-900.eot'); /* IE9 Compat Modes */
+  src: local('Lato Black'), local('Lato-Black'),
+  url('../fonts/lato-v14-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/lato-v14-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/lato-v14-latin-900.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/lato-v14-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/lato-v14-latin-900.svg#Lato') format('svg'); /* Legacy iOS */
+}
+/* montserrat-100 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../fonts/montserrat-v12-latin-100.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Thin'), local('Montserrat-Thin'),
+  url('../fonts/montserrat-v12-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-100.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-100.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-100.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-100italic - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100;
+  src: url('../fonts/montserrat-v12-latin-100italic.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Thin Italic'), local('Montserrat-ThinItalic'),
+  url('../fonts/montserrat-v12-latin-100italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-100italic.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-100italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-100italic.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-200 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/montserrat-v12-latin-200.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat ExtraLight'), local('Montserrat-ExtraLight'),
+  url('../fonts/montserrat-v12-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-200.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-200.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-200.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-300 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/montserrat-v12-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Light'), local('Montserrat-Light'),
+  url('../fonts/montserrat-v12-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-300.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-300.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-300italic - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 300;
+  src: url('../fonts/montserrat-v12-latin-300italic.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Light Italic'), local('Montserrat-LightItalic'),
+  url('../fonts/montserrat-v12-latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-300italic.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-300italic.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-regular - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/montserrat-v12-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Regular'), local('Montserrat-Regular'),
+  url('../fonts/montserrat-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-regular.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-500italic - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  src: url('../fonts/montserrat-v12-latin-500italic.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Medium Italic'), local('Montserrat-MediumItalic'),
+  url('../fonts/montserrat-v12-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-500italic.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-500italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-500italic.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-600 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/montserrat-v12-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat SemiBold'), local('Montserrat-SemiBold'),
+  url('../fonts/montserrat-v12-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-600.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-600.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-700italic - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 700;
+  src: url('../fonts/montserrat-v12-latin-700italic.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Bold Italic'), local('Montserrat-BoldItalic'),
+  url('../fonts/montserrat-v12-latin-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-700italic.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-700italic.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-700 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/montserrat-v12-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Bold'), local('Montserrat-Bold'),
+  url('../fonts/montserrat-v12-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-700.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-700.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* montserrat-900 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/montserrat-v12-latin-900.eot'); /* IE9 Compat Modes */
+  src: local('Montserrat Black'), local('Montserrat-Black'),
+  url('../fonts/montserrat-v12-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/montserrat-v12-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/montserrat-v12-latin-900.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/montserrat-v12-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/montserrat-v12-latin-900.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* ------------------ ESTILOS GENERALES ------------------*/
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fff;
+  /*overflow-x: hidden;*/
+  color: #00000080;
+}
+
+/*h1{
+text-align: center;
+margin-top: 110px;
+color: black;
+text-transform: uppercase;
+letter-spacing: 15px;
+font-weight: 300;
+font-size: 30px;
+}*/
+
+h1 {
+  font-weight: 100;
+  color: black;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 120px auto 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  max-width: 100%;
+  text-shadow: 0 0 20px white;
+}
+
+
+h2{
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 1.4em;
+  color: black;
+}
+
+h4{
+  color: black;
+}
+
+ul{
+  padding-left: 0;
+}
+
+li{
+  list-style: none;
+}
+
+p{
+  line-height: 33px;
+  font-weight: 300;
+  font-size: 1.3em;
+  letter-spacing: 1.3px;
+  padding: 20px 0;
+  font-family: 'Sans Serif';
+}
+
+section{
+  padding: 70px 0;
+  border-bottom: 1px solid rgba(0,0,0, .1);
+}
+
+span:not(.hamburgesa){
+  font-style: oblique;
+  font-weight: 100;
+  text-transform: none;
+}
+
+a{
+  color: black;
+  font-weight: 300;
+  transition: all .2s linear;
+}
+
+nav a:hover{
+  transform: scale(1.05);
+}
+
+hr{
+  width: 20%;
+}
+
+img{
+  width: 100%;
+}
+
+.centrado{
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#nosotros h2{
+  font-size: 2.4em;
+}
+
+
+.subtitle {
+  color: black;
+  padding: 0;
+  font-style: oblique;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+
+.boton{
+  text-transform: uppercase;
+  font-size: 1.3em;
+  display: block;
+  width: 220px;
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.fa::before{
+  /*para poder moverlos libremente con transform etc*/
+  display: inline-block;
+  font-size: 30px;
+  color: black;
+  margin-top: 20px;
+  margin-left: 0;
+  padding-right: 5px;
+}
+
+.misSvg{
+  width: 40px;
+  display: inline-block;
+  transform: translateY(5px);
+  padding-right: 5px;
+}
+
+
+
+/* ------------------ MODALES ------------------*/
+.fondoModal{
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  background-color: rgba(0,0,0,.7);
+  display: none;
+}
+
+.contenidoModal{
+  background-color: white;
+  border-radius: 10px;
+  position: absolute;
+  padding: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  box-shadow: 0 0 50px 0 #000;
+}
+
+.cerrarModal {
+  text-transform: uppercase;
+  margin-top: 2px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Helvetica neue;
+}
+
+div[data-contenido="dos"] img{
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  transition: transform .7s;
+  }x
+
+  div[data-contenido="dos"] img.reduccion{
+    transform: scale(0.7);
+  }
+
+
+
+
+
+
+  /* ------------------ BARRA DE NAVEGACION ------------------*/
+
+  nav{
+    border-bottom: 2px solid #D8D8D8;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #FAFAFA;
+    opacity: .9;
+    transition: all .5s;
+    z-index: 999;
+  }
+
+  nav ul {
+    float: right;
+    padding-right: 20px;
+  }
+
+  nav li{
+    display: inline-block;
+  }
+
+  nav a{
+    display: block;
+    padding: 0 7px;
+    line-height: 70px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  #svgCow {
+    width: 40px;
+  }
+
+  #svgCow *{
+    fill: none;
+    stroke: #000;
+    stroke-width: 5;
+    margin: 10px;
+  }
+
+  .idiomas {
+    display: inline-block;
+    float: none;
+    padding-left: 0;
+  }
+
+  .hamburgesa {
+    position: fixed;
+    top: -6px;
+    right: 10px;
+    display: none;
+    cursor: pointer;
+    color: black;
+    font-size: 3em;
+    text-shadow: 0 0 10px white;
+    z-index: 9999;
+  }
+
+
+  /* ------------------ SECTION 0 HERO------------------*/
+
+  #hero{
+    height: 100vh;
+    background: rgba(0,0,0,.1) url("../img/wallpapers/wallpaper_hero.jpg") no-repeat fixed center / cover;
+  }
+
+  /* ------------------ SECTION 1 NOSOTROS------------------*/
+
+  #nosotros h2 span{
+    font-size: .8em;
+  }
+
+  .botonBlanco{
+    margin: 0 auto;
+    border: 1px solid black;
+  }
+
+  #nosotros .botonBlanco.reveal{
+    opacity: 0;
+    transition: all 1s;
+    transform: translateY(50px);
+  }
+
+  #nosotros .botonBlanco.reveal.visible{
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* ------------------ SECTION 2 NUESTROS PRODUCTOS ------------------*/
+
+
+  #productos{
+    background-color: rgba(0,0,0,.02);
+    position: relative;
+  }
+
+  #productos article{
+    text-align: center;
+  }
+
+  #productos .articleContainer.reveal{
+    opacity: 0;
+    transform: translateY(150px);
+    transition: all 1s;
+  }
+
+  #productos .articleContainer.reveal.visible{
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  #productos .image.reveal{
+    opacity: 0;
+    box-shadow: 0 0 20px 0 #000;
+    transform: translateY(100px);
+    transition: all .5s;
+  }
+
+  #productos .image.reveal.visible{
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+
+  #productos .botonNegro.reveal{
+    opacity: 0;
+    transform: translateY(80px);
+    transition: all 1s;
+  }
+
+  #productos .botonNegro.reveal.visible{
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .botonNegro {
+    color: white;
+    background-color: black;
+    margin: 70px auto 20px auto;
+  }
+
+  .mano-alzada{
+    font-size: .9em;
+    font-style: normal;
+    text-transform: uppercase;
+    color: black;
+  }
+
+  #svgStar *{
+    fill: white;
+    stroke: #000000;
+    stroke-width: 1;
+  }
+
+  /* ------------------ SECTION 3 CALIDAD ------------------*/
+
+  #calidad .subtitle{
+    margin-bottom: 10px;
+  }
+
+  #calidad .botonBlanco.reveal{
+    opacity: 0;
+    transform: translateY(70px);
+    transition: all 1s;
+  }
+
+  #calidad .botonBlanco.reveal.visible{
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+
+  #calidad div[class^="progress"]{
+    background: rgba(0,0,0, .2);
+    height: 2px;
+    position: relative;
+  }
+
+  #calidad div[class^="progress"]::before{
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 0%;
+    background: black;
+    transition: width 1.6s;
+  }
+
+  #calidad .visible .progress100:first-of-type::before{
+    width: 100%;
+    transition-delay: 100ms;
+  }
+
+  #calidad .visible .progress100:nth-of-type(2)::before{
+    width: 100%;
+    transition-delay: 300ms;
+  }
+
+  .barras{
+    padding: 20px;
+  }
+
+  .barras p{
+    padding: 5px;
+  }
+
+  #calidad .row:last-of-type{
+    margin-top: 50px;
+  }
+
+  /*without z-index the carousel appears in the modals, but careful cause if is -1 i cannot drag the pictures of my carousel */
+  #calidad .owl-carousel{
+    z-index: 0;
+  }
+
+  #svgMedal{
+    fill: white;
+    stroke: #000000;
+    stroke-width: 10;
+  }
+
+  /* ------------------ SECTION 4 LOGÍSTICA ------------------*/
+  #logistica{
+    background: white url('../img/wallpapers/logistica.jpg') no-repeat fixed center top / cover;
+    color:  white;
+    position: relative;
+  }
+
+  #logistica h2{
+    color: white;
+  }
+
+  #logistica::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: black;
+    opacity: .7;
+  }
+  #logistica .elemento{
+    text-align: center;
+  }
+
+  #logistica i::before{
+    color: white;
+    margin-bottom: 15px;
+    font-size: 50px;
+  }
+
+  #logistica article{
+    border: 1px solid white;
+    background-color: rgba(255,255,255, .1);
+  }
+
+  #logistica .numero{
+    font-size: 25px;
+  }
+
+  #logistica .article1.reveal{
+    opacity: 0;
+    transform: translateY(-50px);
+    transition: all .8s;
+  }
+
+  #logistica .article1.reveal.visible{
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  #logistica .article2.reveal{
+    opacity: 0;
+    transform: translateY(50px);
+    transition: all .8s;
+  }
+
+  #logistica .article2.reveal.visible{
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  #logistica p.reveal{
+    opacity: 0;
+    transition: all 3s;
+  }
+
+  #logistica p.reveal.visible{
+    opacity: 1;
+  }
+
+  #svgLogistic *{
+    fill: transparent;
+    stroke: white;
+    stroke-width: 8;
+    /*padding-right: 5px;*/
+  }
+
+  #video{
+    width: 100%;
+    border-radius: 7px;
+    box-shadow: 0px 0px 27px 2px #000000;
+  }
+
+  /* ------------------ SECTION 4 ENVIRONMENT ------------------*/
+  #environment{
+    position: relative;
+  }
+
+  #svgEnvironment *{
+    fill: none;
+    stroke: #000;
+    stroke-width: 10;
+  }
+
+  /*.padre{
+  position: relative;
+  }*/
+
+  .hijo.reveal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: white;
+    overflow-y: scroll;
+    box-shadow: 0px 0px 7px 2px white;
+    transform: translate(-50%, -50%);
+    height: 70%;
+    width: 70%;
+    border-radius: 5px;
+    transition: all 3s;
+    opacity: 0;
+  }
+
+  .hijo.reveal.visible{
+    opacity: 1;
+  }
+
+  .hijo p {
+    padding: 20px;
+  }
+
+  #environment img:last-of-type{
+    display: block;
+    margin: 0 auto;
+  }
+  /* ------------------ SECTION 5 CONTACT ------------------*/
+  #contacto{
+    background: rgba(0, 0, 0, 0.08);
+  }
+
+  #contacto h2{
+    font-weight: 600;
+  }
+
+  #contacto input:not(.boton), #contacto textarea {
+    width: 100%;
+    margin-top: 25px;
+    padding: 10px;
+    font-size: 1em;
+    font-weight: 600;
+    color: black;
+    background-color: rgba(255,255,255, .6);
+    border-radius: 8px;
+    resize: none;
+    box-shadow: 0 0 12px black;
+  }
+
+  #contacto .boton{
+    float: right;
+    color: white;
+    background-color: black;
+    width: 150px;
+    margin-top: 30px;
+  }
+
+  #contacto .frase, #contacto .typed-cursor{
+    font-style: normal;
+    color: black;
+    font-weight: 300;
+  }
+
+  #alerta {
+    background: #544f4f;
+    border: 1px solid black;
+    border-radius: 2px;
+    position: fixed;
+    bottom: 100px;
+    transition: all 1s;
+    transform: translateX(-100%);
+  }
+
+  #alerta.visible {
+    transform: translateX(0);
+  }
+
+  #mensaje {
+    padding: 5px;
+    border: 2px dashed #F2F3EB;
+    margin: 10px;
+    color: #F2F3EB;
+    text-align: left;
+    width: 400px;
+    font-size: 14px;
+    max-width: 70vw;
+  }
+
+  /* ------------------ SECTION 6 FOOTER ------------------*/
+
+  footer{
+    text-align: center;
+  }
+
+
+  #svgLocation *{
+    fill: none;
+    stroke: #000000;
+    stroke-width: 2;
+  }
+
+  .map{
+    opacity: 0;
+    transition: all 2s;
+  }
+
+  footer .fa::before{
+    font-size: 20px;
+  }
+
+
+
+  /*TO SE THE LIMIT OF MY BOXEX*/
+  /*.row{
+  border: 1px solid red;
+}
+
+.col-lg-8, .col-lg-4, .col-lg-3, .col-lg-2, .col-12, .col-md-6, .col-md-8, .col-md-4, .col-md-3, .col-lg-12, .col-xl-12, .col-xl-10, .col-xl-3, .col-xl-4, .col-xl-6, .col-lg-4, .col-md-4, .col-md-6, .col-md-8, .col-lg-6{
+border: 1px solid blue;
+}
+
+section{
+border: 1px solid green;
+}*/
+
+
+
+/*REMOVING THE FIXED ATTACHMENT IS THE ONLY WAY IN RESPONSIVE DESIGN TO HAVE A CLEAR IMAGE HAVING THE SAME ORIGINAL IMAGE!!!???*/
+@media only screen and (max-width: 1100px) {
+  #hero{
+    background: rgba(0,0,0,.1) url("../img/wallpapers/wallpaper_hero.jpg") no-repeat center / cover;
+  }
+
+  #logistica{
+    background: rgba(0, 0, 0, .1) url('../img/wallpapers/logistica.jpg') no-repeat center / cover;
+  }
+}
+
+
+
+
+@media screen and (max-width: 991px) {
+
+  nav{
+    width: 250px;
+    height: 100vh;
+    border-right: 1px solid #999;
+    transform: translateX(-100%);
+  }
+
+  nav.apareceMenu{
+    transform: translateX(0);
+  }
+
+  nav ul{
+    float: none;
+  }
+
+
+  nav li{
+    display: block;
+    text-align: center;
+  }
+
+  nav a {
+    line-height: 14vh;
+    font-size: 11px;
+    font-weight: 600;
+  }
+
+  .hamburgesa{
+    display: block;
+  }
+
+
+  #svgCow{
+    display: none;
+  }
+
+  p{
+    line-height: 25px;
+  }
+
+  h1{
+    font-size: 38px;
+    margin-top: 60px;
+  }
+
+  #nosotros h2{
+    font-size: 1.7em;
+  }
+
+  section{
+    padding: 50px 0;
+  }
+
+  /* .camion{
+  width: 33%;
+  display: inline;
+  } */
+
+  #nosotros img {
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    float: right;
+  }
+
+  #contacto .boton{
+    float: none;
+    margin: 10px auto
+  }
+
+}
+
+
+
+@media screen and (max-width: 700px) {
+  h1{
+    font-size: 30px;
+    margin-top: 50px;
+
+  }
+
+  h5{
+    font-size: 11px;
+  }
+
+  p{
+    line-height: 20px;
+  }
+
+  hr{
+    width: 10%;
+  }
+
+  .camion{
+    display: none;
+  }
+
+  #logistica p{
+    padding: 30px 30px 0 30px;
+    text-align: center;
+  }
+
+
+}
